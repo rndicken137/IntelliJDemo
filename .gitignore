@@ -1,0 +1,22 @@
+#/src/org/launchcode/Main.java
+# complied class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.zip
+*.rar
+
+
+.idea
+*.iml
+
